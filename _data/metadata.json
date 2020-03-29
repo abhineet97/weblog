@@ -1,15 +1,14 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://myurl.com/",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "title": "Abhineet's Weblog",
+  "url": "https://abhineet.tk/weblog/",
+  "description": "The personal weblog of Abhineet Tamrakar.",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "The personal weblog of Abhineet Tamrakar.",
     "filename": "feed.xml",
-    "path": "/feed/feed.xml",
-    "id": "https://myurl.com/"
+    "path": "/weblog/feed/feed.xml",
+    "id": "https://abhineet.tk/weblog/"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com"
+      "name": "Abhineet"
   }
 }
