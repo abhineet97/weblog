@@ -3,9 +3,9 @@
 	<title>Abhineet&#39;s Weblog</title>
 	<subtitle>The personal weblog of Abhineet Tamrakar.</subtitle>
 	
-	<link href="https://abhineet.tk/eleventy-base-blog/weblog/feed/feed.xml" rel="self"/>
+	<link href="https://abhineet.tk/weblog/weblog/feed/feed.xml" rel="self"/>
 	<link href="https://abhineet.tk/weblog/"/>
-	<updated>2020-03-29T13:21:03.487-00:00</updated>
+	<updated>2020-03-29T13:29:39.625-00:00</updated>
 	<id>https://abhineet.tk/weblog/</id>
 	<author>
 		<name>Abhineet</name>
@@ -14,9 +14,9 @@
 	
 	<entry>
 		<title>Hello World</title>
-		<link href="https://abhineet.tk/eleventy-base-blog/posts/hello-world/"/>
-		<updated>2020-03-29T13:21:03.487-00:00</updated>
-		<id>https://abhineet.tk/eleventy-base-blog/posts/hello-world/</id>
+		<link href="https://abhineet.tk/weblog/posts/hello-world/"/>
+		<updated>2020-03-29T13:29:39.625-00:00</updated>
+		<id>https://abhineet.tk/weblog/posts/hello-world/</id>
 		<content type="html">&lt;p&gt;Yup, here it is, the very first post on my weblog!&lt;/p&gt;
 </content>
 	</entry>

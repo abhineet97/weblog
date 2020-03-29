@@ -2,27 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://abhineet.tk/eleventy-base-blog/posts/</loc>
+    <loc>https://abhineet.tk/weblog/posts/</loc>
     <lastmod>2020-03-29</lastmod>
   </url>
   
   <url>
-    <loc>https://abhineet.tk/eleventy-base-blog/</loc>
+    <loc>https://abhineet.tk/weblog/</loc>
     <lastmod>2020-03-29</lastmod>
   </url>
   
   <url>
-    <loc>https://abhineet.tk/eleventy-base-blog/page-list/</loc>
+    <loc>https://abhineet.tk/weblog/page-list/</loc>
     <lastmod>2020-03-29</lastmod>
   </url>
   
   <url>
-    <loc>https://abhineet.tk/eleventy-base-blog/posts/hello-world/</loc>
+    <loc>https://abhineet.tk/weblog/posts/hello-world/</loc>
     <lastmod>2020-03-29</lastmod>
   </url>
   
   <url>
-    <loc>https://abhineet.tk/eleventy-base-blog/tags/</loc>
+    <loc>https://abhineet.tk/weblog/tags/</loc>
     <lastmod>2020-03-29</lastmod>
   </url>
 </urlset>
