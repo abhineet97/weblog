@@ -5,7 +5,7 @@
   "feed": {
     "subtitle": "The personal weblog of Abhineet Tamrakar.",
     "filename": "feed.xml",
-    "path": "/weblog/feed/feed.xml",
+    "path": "/weblog/feed.xml",
     "id": "https://abhineet.tk/weblog/"
   },
   "author": {
