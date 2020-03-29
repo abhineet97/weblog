@@ -2,7 +2,7 @@
 
 My personal weblog based on [eleventy-base-blog](https://github.com/11ty/eleventy).
 
-[![Build Status](https://travis-ci.org/abhineet97/weblog?branch=master)](https://travis-ci.org/abhineet97/weblog)
+[![Build Status](https://travis-ci.org/abhineet97/weblog.svg?branch=master)](https://travis-ci.org/abhineet97/weblog)
 
 ## Setup
 
