@@ -5,7 +5,7 @@
 	
 	<link href="https://abhineet.tk/weblog/weblog/feed.xml" rel="self"/>
 	<link href="https://abhineet.tk/weblog/"/>
-	<updated>2020-03-29T13:36:28.261-00:00</updated>
+	<updated>2020-03-29T14:12:44.968-00:00</updated>
 	<id>https://abhineet.tk/weblog/</id>
 	<author>
 		<name>Abhineet</name>
@@ -15,7 +15,7 @@
 	<entry>
 		<title>Hello World</title>
 		<link href="https://abhineet.tk/weblog/posts/hello-world/"/>
-		<updated>2020-03-29T13:36:28.261-00:00</updated>
+		<updated>2020-03-29T14:12:44.968-00:00</updated>
 		<id>https://abhineet.tk/weblog/posts/hello-world/</id>
 		<content type="html">&lt;p&gt;Yup, here it is, the very first post on my weblog!&lt;/p&gt;
 </content>
